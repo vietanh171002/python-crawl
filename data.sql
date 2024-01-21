@@ -1,0 +1,44 @@
+CREATE TABLE IF NOT EXISTS users (
+        product_name TEXT NOT NULL,
+        product_price TEXT NOT NULL
+    );
+    INSERT INTO users VALUES ('''Laptop Dell Inspiron N7415 Ryzen 5 5500/ 8G/ SSD256/ Cảm ứng/ Xoay 360 độ/ Viền Mỏng/ Finger/ LED PHÍM/ Full HD IPS''', '''₫14,990,000''');
+INSERT INTO users VALUES ('''Máy tính xách tay Asus i7/J4125 sổ ghi chép phiên bản sang trọng 15,6 -inch máy tính xách tay màu hồng Máy tính xách tay SSD 256GB/512GB Máy ảnh được xây dựng Window10/11 chạy trơn tru''', '''₫6,757,519''');
+INSERT INTO users VALUES ('''[Duy Nhất 17.1 chỉ còn 10.4xx.xxx] Laptop HP Pavilion 14-dv2070TU (7C0V9PA) (i3-1215U) (Bạc) - Bảo hành 12 tháng''', '''₫12,448,999''');
+INSERT INTO users VALUES ('''Laptop HP 14s-fq1080AU 4K0Z7PA (Ryzen 3-5300U | 4GB | 256GB | Radeon Vega | 14 inch HD | Win 11 | Bạc)''', '''₫7,990,000''');
+INSERT INTO users VALUES ('''Laptop Lenovo ThinkPad X1 carbon Gen 7/Gen 6/Gen 5/ Core i7 / Core i5 / 14 FHD ultra-thin-super fast-genuine goods''', '''₫4,789,000''');
+INSERT INTO users VALUES ('''LaptopLENOVO THINKPAD X1 Carbon Gen 7/ X1 Carbon Gen 6 / X1 Carbon Gen 5 / X1 Carbon / X1 Carbon Gen 4 Core i5-8250U RAM 16GB SSD 512GB 14 inPin&gt;4h''', '''₫4,500,000''');
+INSERT INTO users VALUES ('''!!SALE TẾT!LapTop HP Elitebook 830 G5 Core i5 7200U Ram 8gb SSD 256 Màn Hình FullHD (13,3inch) Pin&gt;4h''', '''₫4,999,000''');
+INSERT INTO users VALUES ('''【Vietnam spot】【ASUS Factory】Monsprin 2023 new Laptop 15.6" FHD 11th gen Intel Celeron J4125 laptop giá rẻ ram 8g/12GB DDR4 128GB/256GB SSD Windows 10/Ms office notebook gaming Thích hợp cho các lớp học trực tuyến và văn phòng trực tuyến''', '''₫6,209,999''');
+INSERT INTO users VALUES ('''Laptop Xiaomi RedmiBook 14ii Ryzen 7-4700U, 16gb ram, 512gb SSD NVMe, màn 14inch Full HD IPS vỏ nhôm siêu bền''', '''₫6,600,000''');
+INSERT INTO users VALUES ('''Lenovo Laptop 14 FHD Màn hình Intel Core i5 8GB RAM 128GB SSD Ultra HD Card đồ họa 600 Windows 10 Professional Student Laptop Chơi game với WiFi Bluetooth''', '''₫5,299,999''');
+INSERT INTO users VALUES ('''DELL 7470 i7 16G 512G MÀN HÌNH 14 in CẢM ỨNG CHẠM TAY SIÊU MƯỢT ĐỘ PHÂN GIẢI GIẢI 2K + SIÊU NÉT''', '''₫4,981,760''');
+INSERT INTO users VALUES ('''ASUS Factory 14 inch Máy tính xách tay mới Intel Core i5 RAM 8GB SSD 128GB Máy tính xách tay chính hãng Cửa sổ 11/MS Office FHD 1920x1080 Máy tính xách tay sinh viên Bảo hành cơ bản 2 năm''', '''₫5,099,999''');
+INSERT INTO users VALUES ('''Laptop Dell XPS 17 9720 i7-12700H/16GB/512GB/17" FHD+/ RTX3050/Touch/Win11''', '''₫51,900,000''');
+INSERT INTO users VALUES ('''【Bảo hành 2 năm】Máy tính xách tay dành cho sinh viên màu hồng Royal ASUS Core i7/Intel Celeron J4125 2023 Ultrabook Intel thế hệ thứ 11 mới Monspring 15,6 inch RAM 8GB + SSD 256GB Máy tính xách tay chơi game mở khóa bằng vân tay có camera tích''', '''₫6,011,199''');
+INSERT INTO users VALUES ('''[Voucher 12% max 3TR] Laptop HP 15s-fq5159TU (7C0S0PA) (i7-1255U) (Bạc) - Bảo hành 12 tháng''', '''₫16,449,000''');
+INSERT INTO users VALUES ('''[Trả góp 0%]LAPTOP CHƠI FIFA 4 PUBG MOBI PHOTOSHOP - HP 4540s Core i5 3210M/ Ram 16G/ ssd 128G + HDD 1000g / Màn 15.6 inch Phím Số Vỏ Nhôm''', '''₫2,500,000''');
+INSERT INTO users VALUES ('''Laptop Dell Latitude 5289 mô tả: Cpu I7 thế hệ 7 7600U, Ram 16G, SSD 256G, Cảm Ứng Xoay Gập 360.(2 in 1)''', '''₫5,841,000''');
+INSERT INTO users VALUES ('''[Voucher 12% max 3TR] Laptop HP Pavilion 14-dv2077TU (7C0W3PA) (i5-1235U) (Bạc) - Bảo hành 12 tháng''', '''₫16,190,000''');
+INSERT INTO users VALUES ('''Dell Latitude e7250 12.5 inch ultrabook - Core i7 5600u 8G SSD 256G''', '''₫2,898,000''');
+INSERT INTO users VALUES ('''Laptop Toshiba Portege Z30 screen 13.3 inch ultrabook - Core i5 5200U 8G 256G SSD''', '''₫2,764,981''');
+INSERT INTO users VALUES ('''laptop gaming full bộ ASUS factory 15.6 inch i7/gen 12th J4125 notebookgaming máy tính xách tay 12GB 512GBSSD 1920*1080p warranty 2year''', '''₫7,191,218''');
+INSERT INTO users VALUES ('''Laptop cũ nhiều lựa chọn Pentium đến i3 i5 i7 Giá tốt nhất''', '''₫1,000,000''');
+INSERT INTO users VALUES ('''ThinkPad X1 Carbon Gen 6 Core i5 8250U / RAM 8GB / 512GB SSD / FHD / New 99%''', '''₫4,355,547''');
+INSERT INTO users VALUES ('''DELL XPS 9365 CORE I7 -7Y75 RAM 16G SSD 512G 13.3INCH FHD TOUCH 360''', '''₫8,780,000''');
+INSERT INTO users VALUES ('''【ASUS Factory】Mistme 2023 new pc gaming full bộ Laptop 15.6 inch Intel J4125/core i5 máy tính laptop giá rẻ ram 16g/8g 512GB SSD Win 10/11 Ms office notebook gaming Thích hợp cho các lớp học trực tuyến và văn phòng trực tuyến''', '''₫5,590,311''');
+INSERT INTO users VALUES ('''Laptop core 2 giá rẻ, ram 4G, HDD 250G, đầy đủ chức năng, ngoại hình đẹp''', '''₫999,000''');
+INSERT INTO users VALUES ('''Laptop cũ nhiều lựa chọn Pentium đến i3 i5 i7 Giá tốt nhất''', '''₫990,000''');
+INSERT INTO users VALUES ('''Máy tính xách tay/ Laptop Lenovo IdeaPad 3 15IAU7 - 82RK001QVN (i5-1235U) (Xanh) - Bảo hành 24 tháng''', '''₫10,590,000''');
+INSERT INTO users VALUES ('''Laptop cũ giá rẻ học tập giải trí nhiều hãng''', '''₫1,601,110''');
+INSERT INTO users VALUES ('''Laptop Dell XPS 9310 2in1 Core i7-1165G7 | RAM 16G | SSD 512G | Màn 13' UHD 4K Máy Mỹ Đẹp 99%''', '''₫15,900,000''');
+INSERT INTO users VALUES ('''100% new Lenovo factory gamming laptop 14.1 inch Intel Celeron j4105 6GB SSD 256GB SSD high strength gaming laptop install Windows 10 Pro & MS Office gaming laptop 2 years old warranty''', '''₫6,271,998''');
+INSERT INTO users VALUES ('''Laptop HP Chính Hãng Ram 8GB 16GB Intel Core i5 - i7 SSD 256GB, Laptop HP mỏng nhẹ full chức năng - HNQ Computer''', '''₫6,021,000''');
+INSERT INTO users VALUES ('''Laptop Asus VivoBook S 14 Flip TN3402 Ryzen 7-5800H, 24gb Ram, 512gb SSD, màn 14inch Full HD cảm ứng gập 360 độ, tuỳ chọn numbpad''', '''₫8,999,000''');
+INSERT INTO users VALUES ('''Laptop Dell Latitude E5480, E5450, E5550 màn 14 inch, 15.6 inch, laptop Dell i5 Ram 8G SSD 256G Likenew - HNQ Computer''', '''₫4,599,000''');
+INSERT INTO users VALUES ('''Laptop Asus ExpertBook B5 Core i7-1165G7, 24gb ram, 1tb SSD NVMe, 13.3" Full HD Oled, siêu mỏng nhẹ update Windows 11''', '''₫6,500,000''');
+INSERT INTO users VALUES ('''[Voucher 15% max 3TR] Laptop Asus Vivobook Go 15 E1504FA-NJ454W (AMD Ryzen 5-7520U) (Bạc) - Bảo hành 24 tháng''', '''₫13,090,000''');
+INSERT INTO users VALUES ('''Laptop Cũ Rẻ Các Hãng Core i7 / i5 / Ram 8gb / Màn hình 14 - 15.6inch / Làm Văn Phòng, Học Tập Mượt Mà''', '''₫2,349,999''');
+INSERT INTO users VALUES ('''Laptop Dell Latitude 3520 (Core i5-1135G7 | 8GB | 256GB | Intel Iris Xe | 15.6 inch FHD''', '''₫8,900,000''');
+INSERT INTO users VALUES ('''(XẢ HÀNG) THINKPAD X270 CORE I5 6300U RAM 8G SSD 256G 12.5INCH''', '''₫3,256,000''');
+INSERT INTO users VALUES ('''Laptop Asus Zenbook UX425UG Ryzen 7-5700U, 16gb ram, 1tb SSD NVMe, vga rời Nvidia MX450M, màn 14” Full HD IPS SRGB vỏ nhôm siêu bên tiêu chuẩn quân đội Mỹ.''', '''₫9,500,000''');
